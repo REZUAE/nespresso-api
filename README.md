@@ -50,4 +50,4 @@ This project is a backend API built with FastAPI to handle coffee pod data such 
 
 ## License
 
-MIT © Your Name
+MIT © Javokhir Norbekov
